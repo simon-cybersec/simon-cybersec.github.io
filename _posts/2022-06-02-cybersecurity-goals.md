@@ -2,7 +2,7 @@
 layout: post
 title: "Goals of cybersecurity"
 subtitle: "Confidentiality - Integrity - Availability"
-background: '/img/posts/security-goals/cia3.png'
+background: '/img/posts/cybersecurity-goals/cia3.png'
 ---
 
 ## The three main goals of cybersecurity
