@@ -2,7 +2,7 @@
 layout: post
 title: "Goals of Security"
 subtitle: "Confidentiality - Integrity - Availability"
-background: '/img/posts/security-goals/01.jpg'
+background: '/img/posts/security-goals/04.jpg'
 ---
 
 ## The three big goals of security
