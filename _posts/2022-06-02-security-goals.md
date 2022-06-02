@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Goals of Security"
+title: "Goals of cybersecurity"
 subtitle: "Confidentiality - Integrity - Availability"
-background: '/img/posts/security-goals/04.jpg'
+background: '/img/posts/security-goals/cia3.png'
 ---
 
-## The three big goals of security
+## The three main goals of cybersecurity
 In cybersecurity three main goals are specified:
 - Confidentiality  
 - Integrity  
