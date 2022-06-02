@@ -11,7 +11,7 @@ In cybersecurity three main goals are specified:
 - Integrity  
 - Availability
 
-![picture-cia](/img/posts/security-goals/cia.png)
+![picture-cia](/img/posts/cybersecurity-goals/cia.png)
 
 ## Confidentiality
 If something is classified as confidential no unauthorized person should be able to read your data. This is meant by the term *confidentiality*.
