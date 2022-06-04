@@ -9,10 +9,10 @@
         font-weight: 800;
         color: $gray-800;
         .logo-dark{
-            display: none;
+            display: inline;
         }
         .logo-light{
-            display: inline;
+            display: none;
         }
 
     }
@@ -47,6 +47,13 @@
             &:focus,
             &:hover {
                 color: fade-out($white, .2);
+            }           
+            
+            .logo-dark{
+                display: none;
+            }
+            .logo-light{
+                display: inline;
             }
         }
 
