@@ -50,11 +50,14 @@ Non-invasive attacks don't modify the hard- and software but rather try to gathe
 
 Logical invasive attacks can be categorized in:
 - *Authenticity forging*  
-        The authenticity of someone can be forged using attacks like pishing or DNS spoofing.
+        The authenticity of someone can be forged using attacks like pishing or DNS spoofing.  
+
 - *Exploit of cryptographic weaknesses*  
-        I.e. brute force attacks or attacks using information leakage of bad cryptographic designs like WEP used in WLAN networks.
+        I.e. brute force attacks or attacks using information leakage of bad cryptographic designs like WEP used in WLAN networks.  
+
 - *Copying*  
-        Copying of programs and intelectual property ("IP cores")  
+        Copying of programs and intelectual property ("IP cores").  
+
 
 
 #### >> physical non-invasive attacks
@@ -62,10 +65,9 @@ Logical invasive attacks can be categorized in:
 As mentioned above non-invasive attacks do not modify hard- or software. Physical non-invasive attacks are for example:
 
 - *Side-channel attacks*  
-        During the data processing allways information gets leaked unintentionally. For example attacks on AES encryption can be conducted utilizing power consumption or temperature etc.
+        During the data processing allways information gets leaked unintentionally. For example attacks on AES encryption can be conducted utilizing power consumption or temperature etc.  
+
 - *Eavesdropping*  
-
-
 
 
 
