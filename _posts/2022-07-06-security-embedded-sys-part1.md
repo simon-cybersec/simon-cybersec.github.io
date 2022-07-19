@@ -65,7 +65,7 @@ Logical invasive attacks can be categorized in:
 As mentioned above non-invasive attacks do not modify hard- or software. Physical non-invasive attacks are for example:
 
 - *Side-channel attacks*  
-        During the data processing allways information gets leaked unintentionally. For example attacks on AES encryption can be conducted utilizing power consumption or temperature etc.  
+        During data processing allways information is leaked unintentionally. For example attacks on AES encryption can be conducted utilizing power consumption or temperature etc.  
 
 - *Eavesdropping*  
 
