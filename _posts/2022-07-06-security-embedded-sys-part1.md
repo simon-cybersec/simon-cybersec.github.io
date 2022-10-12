@@ -69,7 +69,10 @@ As mentioned above non-invasive attacks do not modify hard- or software. Physica
         during AES encryption (or decryption) one is able to retrieve the used key. 
 
 - *Eavesdropping*  
-        For example listening on an unenrypted communication and waiting for a password beeing exchanged.
+        For example listening on an unenrypted communication and waiting for a password beeing exchanged.  
+
+## Coming next...
+Part two of "Security in embedded systems" will cover countermeasures against the attack scenarios described above.
 
 
 ## Further information
