@@ -19,11 +19,11 @@ Confidentiality, integrity and availability - easy to remember using the "CIA" a
 
 With invasive attacks one gets hands on with the hardware and tries to modify it in order to change its behavior or to gather information. Of course therefore one has to have access to the hardware. As mentioned above invasive attacks are splitted into logical and physical attacks.
 
-#### >> logical invasive attacks
+#### >> Logical invasive attacks
 
 Logical invasive attacks are targeting the integrity and confidentiality of a system. Mostly known as code injection attacks an attacker firstly inserts own code in memory and secondly triggers its execution. If succeeded one is able to control the system and therefore is able to read out data as well as changing data and behavior. But it is important to note that code injection is not always necessary. It has been prooved that by using return oriented programming it is possible to craft malicious routines without the injection of code.  
 
-#### >> physical invasive attacks
+#### >> Physical invasive attacks
 
 Physical invasive attacks are targeting all of the three CIA-goals. Availability is compromised if one simply damages a device . But more interesting, using special equipment one is able to read and to manipulate data as well as hardware circuits which compromises confidentiality and integrity.  
 The dimensions of recent technologies are very small and the needed equipment can be expensive. This can make physical invasive attacks difficult to conduct. However, if money is not the problem the first step of such an attack is the depacking where one opens the device or chip in order to get access to its inner electronics or physical layers.  
@@ -45,7 +45,7 @@ However, if the dimensions are smaller than the wavelength of visible light a op
 
 Non-invasive attacks mostly don't modify the hard- and software but rather try to gather information and to get system access.  
 
-#### >> logical non-invasive attacks
+#### >> Logical non-invasive attacks
 
 Logical invasive attacks can be categorized in:
 - *Authenticity forging*  
@@ -59,7 +59,7 @@ Logical invasive attacks can be categorized in:
 
 
 
-#### >> physical non-invasive attacks
+#### >> Physical non-invasive attacks
 
 As mentioned above non-invasive attacks do not modify hard- or software. Physical non-invasive attacks are for example:
 
