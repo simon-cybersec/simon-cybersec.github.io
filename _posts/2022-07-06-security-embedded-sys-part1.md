@@ -12,12 +12,12 @@ Embedded systems are present everywhere in our society. Smart coffee machines in
 In the first post we discussed the [three main goals of cybersecurity](https://www.simon-cybersec.com/2022/06/02/cybersecurity-goals.html):
 Confidentiality, integrity and availability - easy to remember using the "CIA" abbreviation. Attack scenarios to compromise these can be categorized as shown in the following graphic:  
 
-![picture-attackscenarios](/img/posts/security-embedded-sys/attackscenarios.png)
+![picture-attack-scenarios](/img/posts/security-embedded-sys/attackscenarios.png)
 
 
 ## Invasive attacks
 
-With invasive attacks one gets hands on with the hardware and tries to modify it in order to change its behavior or to gather information. Of course therefore one has to have access to the hardware. As mentioned above invasive attacks are splitted into logical and physical attacks.
+With invasive attacks one gets hands on with the hardware and tries to modify it in order to change its behavior or to gather information. Of course therefore one has to have access to the hardware. As mentioned above invasive attacks are devided into logical and physical attacks.
 
 #### >> Logical invasive attacks
 
