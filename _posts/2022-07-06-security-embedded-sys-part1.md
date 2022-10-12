@@ -6,7 +6,7 @@ background: '/img/posts/security-embedded-sys/head_image.jpg'
 ---
 
 ## Security in embedded systems
-Embedded systems are present everywhere in our society. Smart coffee machines in our private life to smart production processes in Industry 4.0: So called "smart systems" get connected by the Internet of Things (IoT) and bring cool features we don't want to miss anymore. Of course this also generates possible attack vectors we have to know and to discuss about. Security in embedded systems is a combined matter of hardware-security and software-security. It has to be considered from the very first beginning of designing a system. This is going to be a two part article. While part one is about attack scenarios on embedded systems part two will cover possible countermeasures against them.  
+Embedded systems are present everywhere in our society. Smart coffee machines in our private life as well as smart production processes in Industry 4.0: So called "smart systems" get connected by the Internet of Things (IoT) and bring cool features we don't want to miss anymore. Of course this also generates possible attack vectors we have to know and to discuss about. Security in embedded systems is a combined matter of hardware-security and software-security. It has to be considered from the very first beginning of designing a system. This is going to be a two part article. While part one is about attack scenarios on embedded systems part two will cover possible countermeasures against them.  
 
 ## Part 1: Attacks on embedded systems
 In the first post we discussed the [three main goals of cybersecurity](https://www.simon-cybersec.com/2022/06/02/cybersecurity-goals.html):
