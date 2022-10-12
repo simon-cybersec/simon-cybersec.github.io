@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Goals of cybersecurity"
+title: "The main goals of cybersecurity"
 subtitle: "Confidentiality - Integrity - Availability"
 background: '/img/posts/cybersecurity-goals/cia3.png'
 ---
