@@ -18,7 +18,7 @@ Cases where you need to boot from a USB drive are for example:
 
 ## Creating a bootable USB drive
 
-Creating a boot stick on linux is quite easy. One can either use the command line tool 'dd' or one of many available GUI programs.
+Creating a boot stick on a Linux system is quite easy. One can either use the command line tool 'dd' or one of many available GUI programs.
 The first solution is the most flexible one because 'dd' is already installed on most linux systems. However, it is also kind of dangerous if you do not watch out what device you flash. One can easily erase the own hard drive by mistake. So I also show you the GUI program Etcher which takes care you write to your USB drive or SD card.  
 
 ### Using the 'dd' command
@@ -49,7 +49,7 @@ When it's done you can boot from the USB drive.
 
 ### Using the GUI program Etcher
 
-Etcher is a tool for flashing USB drives and SD cards. It takes care that you don't override the hard drive. Download it from [the official website](https://www.balena.io/etcher/).  
+Etcher is a tool for flashing USB drives or SD cards and is available for Linux/Windows/Mac. It takes care that you don't override the hard drive. Download it from [the official website](https://www.balena.io/etcher/).  
 
 One file will be downloaded. In my case it is named balenaEtcher-1.7.9-x64.AppImage. First make it executable by typing:  
 
