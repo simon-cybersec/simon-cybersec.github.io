@@ -37,9 +37,9 @@ Find the correct drive. This is extremely important! If you flash the wrong devi
 In the following '/dev/sdb' is used as an example. *Make sure you use your own device!!*
 
 **Step 2**  
-Flash your USB drive. In my case the drive is '/dev/sdb' and the command is:
+Flash your USB drive. In my case the USB drive is '/dev/sdb' and the command is:
 
-        sudo dd if=/home/simon-cybersec/images/ubuntu-2204.img of=/dev/sdb1 bs=1M && sync
+        sudo dd if=/home/simon-cybersec/images/ubuntu-2204.iso of=/dev/sdb1 bs=1M && sync
 
 Here the option 'bs' is specified in order to write one megabytes at a time. 'sync' makes sure all the data in the buffer is written to the device.  
 This step might take some time. Be patient.  
