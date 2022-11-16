@@ -5,9 +5,9 @@ subtitle: "Cyber basics #1"
 background: '/img/posts/cyber_basics/head_image.jpg'
 ---
 
-## Why you may want to boot from a USB drive
-Cases where you need to boot from a USB drive are for example:
-- the operating system installed on the hardware doesn't boot anymore
+## Why you might want to boot from a USB drive
+There are some cases where you need to boot from a USB drive:
+- the operating system installed on the hardware doesn't boot anymore and you need to repair it
 - installation of a different operating system
 - forensic analysis of the computer
 - booting an embedded system like a Raspberry Pi
