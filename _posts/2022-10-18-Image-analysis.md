@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Image analysis using ExifTool"
-subtitle: "Cyber basics #2"
+subtitle: "Cyber basics #3"
 background: '/img/posts/cyber_basics/head_image.jpg'
 ---
 
