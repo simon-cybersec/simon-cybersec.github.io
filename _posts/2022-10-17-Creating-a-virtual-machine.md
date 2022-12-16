@@ -83,6 +83,20 @@ Once the installation has been finished you can boot it and log in. Now you shou
 This will probably take some time. Just take another cup of coffee ;)  
 Congrats! You've done it!
 
+
+## Just for fun...
+Let's have some fun and install _cmatrix_. Open a terminal and type:
+
+        sudo apt install cmatrix
+
+Then execute it by just typing _cmatrix_.
+
+![picture vmware](/img/posts/cyber_basics/cmatrix.png)
+
+It looks wonderful, does it? ;)
+
+
+
 ## Further information
 - [Download VMware Workstation Player](https://www.vmware.com/de/products/workstation-player.html)
 - [Download Oracle Virtual Box](https://www.virtualbox.org/)
