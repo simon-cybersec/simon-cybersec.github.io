@@ -1,5 +1,5 @@
 # Welcome
-This is my blog about cybersecurity and forensics.  
+...to this awesome blog about embedded systems, especially security related topics.  
 Take a cup of coffee and enjoy reading ;)  
 
-[simon-cybersec.com](https://www.simon-cybersec.com/)
+[simon-cybersec.github.io](https://simon-cybersec.github.io/)
