@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who's this guy...
+title: 
 description:
 background: '/img/bg-about.jpg'
 ---
