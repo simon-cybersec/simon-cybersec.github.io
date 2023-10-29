@@ -10,7 +10,7 @@ background: '/img/posts/cyber_basics/head_image.jpg'
 In summer I've done a soldering workshop for some teens. Because I wanted the workshop to be cool and challenging at the same time I designed a PCB ("Printed Circuit Board") tailored to my requirements. It has a mikrocontroller, an OLED-display, a button, LED and some SMD parts. \
 When the button is pressed the display shows a text and the LED blinks, both for a time duration of ten minutes. The PCB is powered by a CR2032 coin cell battery.  
 
-<img src="https://simon-cybersec.github.io/img/posts/PCB-design/pcbfinished.jpg" alt="Image of the PCB" style="width:60%; height:auto;"/>  
+<img src="https://simon-cybersec.github.io/img/posts/PCB-design/pcbfinished.jpg" alt="Image of the PCB" style="width:70%; height:auto;"/>  
 
 
 # The PCB design
@@ -24,7 +24,7 @@ The PCB is designed in order to be challenging but also to be fun to solder. The
 
  - Button debouncing is done in software in order to keep the PCB simple and because the workshop time was limited.  
 
-<img src="https://simon-cybersec.github.io/img/posts/PCB-design/topandbottom_notfilled.png" alt="Image of the PCB" style="width:60%; height:auto;"/>  
+<img src="https://simon-cybersec.github.io/img/posts/PCB-design/topandbottom_notfilled.png" alt="Image of the PCB" style="width:70%; height:auto;"/>  
 
   
 # The parts
@@ -55,10 +55,10 @@ The PCB is designed in order to be challenging but also to be fun to solder. The
 - screws and screw nuts (4x)
  
 ## Capacitors (size 0805)
-<img src="https://simon-cybersec.github.io/img/posts/PCB-design/table_capacitors.png" alt="Table Capacitors" style="width:90px; height:auto;"/>
+<img src="https://simon-cybersec.github.io/img/posts/PCB-design/table_capacitors.png" alt="Table Capacitors" style="width:20%; height:auto;"/>
 
 ## Resistors (size 0805)
-<img src="https://simon-cybersec.github.io/img/posts/PCB-design/table_resistors.png" alt="Table Capacitors" style="width:90px; height:auto;"/>
+<img src="https://simon-cybersec.github.io/img/posts/PCB-design/table_resistors.png" alt="Table Capacitors" style="width:20%; height:auto;"/>
 
 # Eagle files
 The eagle design files are located in [_my github repo in the folder "eagle-files"_](https://github.com/simon-cybersec/Workshop-PCB).  
