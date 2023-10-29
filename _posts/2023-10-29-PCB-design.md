@@ -25,7 +25,7 @@ The PCB is designed in order to be challenging but also to be fun to solder. The
 
  - Button debouncing is done in software in order to keep the PCB simple and because the workshop time was limited.  
 
-<img src="../img/posts/PCB-design/topandbottom_notfilled.png" alt="Image of the PCB" width="230"/>  
+<img src="img/posts/PCB-design/topandbottom_notfilled.png" alt="Image of the PCB" width="230"/>  
 
   
 # The parts
