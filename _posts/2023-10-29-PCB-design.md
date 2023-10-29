@@ -10,8 +10,7 @@ background: '/img/posts/cyber_basics/head_image.jpg'
 In summer I've done a soldering workshop for some teens. Because I wanted the workshop to be cool and challenging at the same time I designed a PCB ("Printed Circuit Board") tailored to my requirements. It has a mikrocontroller, an OLED-display, a button, LED and some SMD parts. \
 When the button is pressed the display shows a text and the LED blinks, both for a time duration of ten minutes. The PCB is powered by a CR2032 coin cell battery.  
 
-![Image PCB](/img/posts/PCB-design/pcbfinished.jpg){:width="10"}
-
+<img src="https://github.com/simon-cybersec/simon-cybersec.github.io/tree/master/img/posts/PCB-design/pcbfinished.jpg" alt="Image of the PCB" width="100"/>  
 
 
 # The PCB design
@@ -25,7 +24,7 @@ The PCB is designed in order to be challenging but also to be fun to solder. The
 
  - Button debouncing is done in software in order to keep the PCB simple and because the workshop time was limited.  
 
-<img src="https://github.com/simon-cybersec/simon-cybersec.github.io/tree/master/img/posts/PCB-design/topandbottom_notfilled.png" alt="Image of the PCB" width="230"/>  
+<img src="https://github.com/simon-cybersec/simon-cybersec.github.io/tree/master/img/posts/PCB-design/topandbottom_notfilled.png" alt="Image of the PCB" width="100"/>  
 
   
 # The parts
