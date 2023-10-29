@@ -10,7 +10,7 @@ background: '/img/posts/cyber_basics/head_image.jpg'
 In summer I've done a soldering workshop for some teens. Because I wanted the workshop to be cool and challenging at the same time I designed a PCB ("Printed Circuit Board") tailored to my requirements. It has a mikrocontroller, an OLED-display, a button, LED and some SMD parts. \
 When the button is pressed the display shows a text and the LED blinks, both for a time duration of ten minutes. The PCB is powered by a CR2032 coin cell battery.  
 
-<img src="../img/posts/PCB-design/pcbfinished.png" alt="image of the PCB" width="210"/>
+<img src="../img/posts/PCB-design/pcbfinished.jpg" alt="Image of the PCB" width="210"/>
 
 # The PCB design
 
