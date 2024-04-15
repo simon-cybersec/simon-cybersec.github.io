@@ -2,7 +2,7 @@
 layout: page
 title: 
 description:
-background: '/img/bg-about.jpg'
+background: '/img/bg-about-new.jpg'
 ---
 
 Hey,  
